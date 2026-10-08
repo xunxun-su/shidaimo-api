@@ -1,0 +1,13 @@
+{
+  "name": "shidaimo-server",
+  "version": "1.0.0",
+  "description": "为“时代楷模”App提供数据的后端API服务（Express + JSON数据源）",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  }
+}
